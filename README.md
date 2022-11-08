@@ -1,2 +1,15 @@
-# people-blogs
-A list of cool people who share good content, or have interesting website layouts.
+# People's Blogs
+
+- [Maggie Appleton](https://maggieappleton.com/)
+- [Stephan Ango](https://stephanango.com/)
+- [Balaji Srinivasan](https://balajis.com/)
+- [Edward Tufte](https://www.edwardtufte.com/)
+- [Jeremy Keith](https://adactio.com/)
+- [100 Rabbits](https://100r.co/site/home.html)
+- [Triangulo](https://triangulo.dev)
+- [XXIIVV](https://wiki.xxiivv.com/site/home.html)
+- [Danilo Woznica](https://danilowoz.com/)
+- [Rasmus Andersson](https://rsms.me/)
+- [Julian Lehr](https://julian.digital/)
+- [Eder Christian](https://ederchristian.com/)
+- [Nate Moore](https://feed.nmoo.dev/)
