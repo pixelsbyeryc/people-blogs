@@ -13,3 +13,4 @@
 - [Julian Lehr](https://julian.digital/)
 - [Eder Christian](https://ederchristian.com/)
 - [Nate Moore](https://feed.nmoo.dev/)
+- [Blake Watson](https://blakewatson.com/)
