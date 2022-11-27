@@ -14,3 +14,4 @@
 - [Eder Christian](https://ederchristian.com/)
 - [Nate Moore](https://feed.nmoo.dev/)
 - [Blake Watson](https://blakewatson.com/)
+- [Dave Smyth](https://davesmyth.com/)
